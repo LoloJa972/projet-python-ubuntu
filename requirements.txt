@@ -1,0 +1,2 @@
+pandas
+sqlite3  # Ce module est intégré à Python, pas besoin d'installation mais on l'indique pour info
